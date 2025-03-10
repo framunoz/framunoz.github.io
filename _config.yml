@@ -170,7 +170,7 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-# Includes & excludes
+# MARK: Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
@@ -199,7 +199,7 @@ exclude:
   - _pages/dropdown.md # Submenus page
   - _pages/books.md # Book shelf page
   - _pages/blog.md # Blog page
-  - _pages/projects.md # Projects page
+  # - _pages/projects.md # Projects page
 keep_files:
   - CNAME
   - .nojekyll
