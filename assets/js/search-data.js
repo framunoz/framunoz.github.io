@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-curriculum-vitae",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "A collection of projects I&#39;ve worked on.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
           description: "",
           section: "Navigation",
@@ -21,6 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-i-deployed-my-web-page-today-yahoo",
+          title: 'I deployed my web page today! Yahoo! 🎉',
+          description: "",
+          section: "News",},{id: "projects-evolution-of-species",
+          title: 'Evolution of Species',
+          description: "Project to provide numerical methods to solve the Perthame equations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2021-06-10-evolution-of-species/";
             },},{
         id: 'social-email',
         title: 'email',
