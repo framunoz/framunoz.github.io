@@ -26,7 +26,7 @@
     {
       "name": "Centro Nacional en Inteligencia Artificial (CENIA)",
       "position": "Research Assistant",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "https://cenia.cl",
       "startDate": "2024-10-15",
       "endDate": "2025-01-31",
@@ -41,12 +41,17 @@
       "startDate": "2023-03-01",
       "endDate": "2024-10-11",
       "summary": "I developed a PyTorch library for computing the Bayesian Wasserstein barycenter using the Stochastic Gradient Descent Algorithm in the Wasserstein space.",
-      "highlights": ["Implemented Wasserstein Generative Adversarial Networks (WGAN) to compute their barycenter and use it as a proxy for manifold projection.", "Extended WGAN algorithms by incorporating an Autoencoder (AE) structure through the Wasserstein distance.", "Approximated the posterior distribution using a GAN and the Markov Chain Monte Carlo (MCMC) algorithm.", "Developed a library for obtaining and processing the Quick, Draw! dataset."]
+      "highlights": [
+        "Implemented Wasserstein Generative Adversarial Networks (WGAN) to compute their barycenter and use it as a proxy for manifold projection.",
+        "Extended WGAN algorithms by incorporating an Autoencoder (AE) structure through the Wasserstein distance.",
+        "Approximated the posterior distribution using a GAN and the Markov Chain Monte Carlo (MCMC) algorithm.",
+        "Developed a library for obtaining and processing the Quick, Draw! dataset."
+      ]
     },
     {
       "name": "Center for Mathematical Modeling (CMM)",
       "position": "Front-end Developer",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2024-04-01",
       "endDate": "2024-05-31",
@@ -56,7 +61,7 @@
     {
       "name": "Center for Mathematical Modeling (CMM)",
       "position": "Professional Internship",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2022-12-01",
       "endDate": "2023-01-31",
@@ -66,7 +71,7 @@
     {
       "name": "Center for Mathematical Modeling (CMM)",
       "position": "Research Assistant",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2022-08-01",
       "endDate": "2023-01-31",
@@ -86,7 +91,7 @@
     {
       "name": "Voyager Health",
       "position": "Data Scientist",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
       "summary": "I predicted the INR index in patients undergoing oral anticoagulant treatment using recurrent neural networks in TensorFlow and other time series analysis tools. I performed statistical analysis on the time series.",
@@ -95,7 +100,7 @@
     {
       "name": "SimpliRoute",
       "position": "Data Scientist",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "https://simpliroute.com/es",
       "startDate": "2021-01-01",
       "endDate": "2021-03-05",
@@ -105,7 +110,7 @@
     {
       "name": "SARCAN",
       "position": "Development and Research Engineer",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "http://www.sarcan.cl",
       "startDate": "2020-03-01",
       "endDate": "2020-08-31",
@@ -115,7 +120,7 @@
     {
       "name": "SARCAN",
       "position": "Researcher Intern",
-      "location":"Santiago, Chile",
+      "location": "Santiago, Chile",
       "url": "http://www.sarcan.cl",
       "startDate": "2020-01-01",
       "endDate": "2020-02-31",
