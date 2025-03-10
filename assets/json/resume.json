@@ -38,7 +38,7 @@
       "position": "Master's Thesis Student",
       "location": "Santiago, Chile",
       "url": "https://www.cmm.uchile.cl",
-      "startDate": "2023-03-01",
+      "startDate": "2022-12-01",
       "endDate": "2024-10-11",
       "summary": "I developed a PyTorch library for computing the Bayesian Wasserstein barycenter using the Stochastic Gradient Descent Algorithm in the Wasserstein space.",
       "highlights": [
@@ -56,16 +56,6 @@
       "startDate": "2024-04-01",
       "endDate": "2024-05-31",
       "summary": "I designed and implemented an intuitive graphical interface to enhance the user experience in workforce scheduling using mathematical models, improving interaction and result visualization.",
-      "highlights": []
-    },
-    {
-      "name": "Center for Mathematical Modeling (CMM)",
-      "position": "Professional Internship",
-      "location": "Santiago, Chile",
-      "url": "https://www.cmm.uchile.cl",
-      "startDate": "2022-12-01",
-      "endDate": "2023-01-31",
-      "summary": "I implemented the stochastic gradient descent algorithm in Wasserstein spaces to estimate Bayesian Wasserstein barycenters in image datasets.",
       "highlights": []
     },
     {
@@ -109,21 +99,11 @@
     },
     {
       "name": "SARCAN",
-      "position": "Development and Research Engineer",
-      "location": "Santiago, Chile",
-      "url": "http://www.sarcan.cl",
-      "startDate": "2020-03-01",
-      "endDate": "2020-08-31",
-      "summary": "I researched the optimization of supply in intercity transportation and developed optimization models to improve route efficiency.",
-      "highlights": []
-    },
-    {
-      "name": "SARCAN",
       "position": "Researcher Intern",
       "location": "Santiago, Chile",
       "url": "http://www.sarcan.cl",
       "startDate": "2020-01-01",
-      "endDate": "2020-02-31",
+      "endDate": "2020-08-31",
       "summary": "Researched the optimization of supply in intercity transportation, designed an action plan to address the problem, and developed optimization models to improve route planning and efficiency.",
       "highlights": []
     }
