@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - framunoz
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - framunoz/Bayesian-Learning-with-Wasserstein-Barycenters
+  - framunoz/evolution_of_species
+  - framunoz/Rubiks-Cube
