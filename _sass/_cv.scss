@@ -98,6 +98,12 @@ div.container-pdf {
  * CV LIST_GROUPS styles
  *****************************/
 
+div.list-groups-certificates {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
 div.list-groups {
   display: flex;
   flex-wrap: wrap;
@@ -108,7 +114,6 @@ div.list-groups {
 
 div.list-group {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: column;
   align-items: flex-start;
   margin-bottom: 2rem;
@@ -128,6 +133,16 @@ td.list-group-category-icon {
 
 td.list-group-name {
   font-size: 0.8rem;
+}
+
+td.list-group-date {
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+span.issuer-space {
+  display: inline-block;
+  margin-left: 10px; /* Ajusta este valor según sea necesario */
 }
 
 td.list-group-level {
