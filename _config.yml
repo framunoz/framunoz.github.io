@@ -1,13 +1,13 @@
 # -----------------------------------------------------------------------------
-# Site settings
+# MARK: Site settings
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Francisco
+middle_name: 
+last_name: Muñoz
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐱‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://framunoz.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -16,7 +16,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
-# Theme
+# MARK: Theme
 # -----------------------------------------------------------------------------
 
 # repo color theme
@@ -28,7 +28,7 @@ repo_trophies:
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
-# RSS Feed
+# MARK: RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
@@ -36,7 +36,7 @@ repo_trophies:
 rss_icon: true
 
 # -----------------------------------------------------------------------------
-# Layout
+# MARK: Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
@@ -51,7 +51,7 @@ max_width: 1000px
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
-# Open Graph & Schema.org
+# MARK: Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
@@ -60,7 +60,7 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-# Analytics and search engine verification
+# MARK: Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
@@ -75,7 +75,7 @@ google_site_verification: # your google-site-verification ID (Google Search Cons
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
-# Blog
+# MARK: Blog
 # -----------------------------------------------------------------------------
 
 permalink: /blog/:year/:title/
@@ -120,7 +120,7 @@ external_sources:
         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
-# Newsletter
+# MARK: Newsletter
 # -----------------------------------------------------------------------------
 
 newsletter:
@@ -129,7 +129,7 @@ newsletter:
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
-# Collections
+# MARK: Collections
 # -----------------------------------------------------------------------------
 
 collections:
@@ -143,7 +143,7 @@ collections:
     output: true
 
 # -----------------------------------------------------------------------------
-# Jekyll settings
+# MARK: Jekyll settings
 # -----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
@@ -220,7 +220,7 @@ sass:
   style: compressed
 
 # -----------------------------------------------------------------------------
-# Jekyll Minifier
+# MARK: Jekyll Minifier
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
@@ -228,7 +228,7 @@ jekyll-minifier:
   exclude: ["robots.txt", "assets/js/search/*.js"]
 
 # -----------------------------------------------------------------------------
-# Terser
+# MARK: Terser
 # -----------------------------------------------------------------------------
 
 terser:
@@ -236,7 +236,7 @@ terser:
     drop_console: true
 
 # -----------------------------------------------------------------------------
-# Jekyll Archives
+# MARK: Jekyll Archives
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
@@ -253,7 +253,7 @@ display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] #
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
-# Jekyll Scholar
+# MARK: Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
@@ -324,7 +324,7 @@ more_authors_animation_delay: 10 # more authors are revealed on click using anim
 enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
-# Jekyll Link Attributes
+# MARK: Jekyll Link Attributes
 # -----------------------------------------------------------------------------
 
 # These are the defaults
@@ -335,7 +335,7 @@ external_links:
   exclude:
 
 # -----------------------------------------------------------------------------
-# Jekyll Polyglot
+# MARK: Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
 languages: ["en-us", "pt-br", "fr-ca"]
@@ -346,7 +346,7 @@ country_flag: false # set true for allowing flag symbol in language toggle
 parallel_localization: false
 
 # -----------------------------------------------------------------------------
-# Responsive WebP Images
+# MARK: Responsive WebP Images
 # -----------------------------------------------------------------------------
 
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
@@ -377,7 +377,7 @@ imagemagick:
 lazy_loading_images: true # enables lazy loading of images (recommended)
 
 # -----------------------------------------------------------------------------
-# Optional Features
+# MARK: Optional Features
 # -----------------------------------------------------------------------------
 
 enable_google_analytics: false # enables google analytics
@@ -397,7 +397,7 @@ enable_progressbar: true # enables a horizontal progress bar linked to the verti
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
-# Library versions
+# MARK: Library versions
 # -----------------------------------------------------------------------------
 
 # Add the url, version and integrity hash of the libraries you use in your site.
@@ -620,7 +620,7 @@ third_party_libraries:
     version: "2.1.8"
 
 # -----------------------------------------------------------------------------
-# Get external JSON data
+# MARK: Get external JSON data
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
