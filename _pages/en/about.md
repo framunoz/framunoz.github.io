@@ -1,4 +1,5 @@
 ---
+page_id: about
 layout: about
 title: About
 permalink: /
