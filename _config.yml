@@ -199,6 +199,9 @@ exclude:
   # Remove people
   - _pages/en/profiles.md
   - _pages/es/profiles.md
+  # Remove blog
+  - _pages/en/blog.md
+  - _pages/es/blog.md
 
 keep_files:
   - CNAME
