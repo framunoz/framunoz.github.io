@@ -20,13 +20,14 @@ blog:
 categories:
   fun: fun
   work: work
+  university: university
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"
 collections:
   books: books
   posts: posts
-contact_note: You can even add a little note about which of these is the best way to reach you.
+contact_note: I usually respond within 24 hours to emails.
 cv:
   address: Address
   area: Area
