@@ -1,101 +1,101 @@
-- title: Informações Gerais
+- title: Información General
   type: map
   contents:
-    - name: Nome Completo
+    - name: Nombre Completo
       value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
+    - name: Fecha de Nacimiento
+      value: 14 de marzo de 1879
     - name: Idiomas
-      value: Inglês, Alemão
+      value: Inglés, Alemán
 
-- title: Educação
+- title: Educación
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
+    - title: Doctorado
+      institution: Universidad de Zurich, Zurich, Suiza
       year: 1905
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
+        - Descripción 1.
+        - Descripción 2.
+        - title: Descripción 3.
           contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
+            - Sub-descripción 1.
+            - Sub-descripción 2.
+    - title: Diploma de enseñanza federal
+      institution: Eidgenössische Technische Hochschule, Zurich, Suiza
       year: 1900
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - Descripción 1.
+        - Descripción 2.
 
-- title: Experiência
+- title: Experiencia
   type: time_table
   contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
+    - title: Profesor de Física Teórica
+      institution: Instituto de Estudios Avanzados, Universidad de Princeton
       year: 1933 - 1955
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
+        - Descripción 1.
+        - Descripción 2.
+        - title: Descripción 3.
           contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
+            - Sub-descripción 1.
+            - Sub-descripción 2.
+    - title: Profesor Visitante
+      institution: Instituto de Tecnología de California, Pasadena, California, EE. UU.
       year: 1933
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - Descripción 1.
+        - Descripción 2.
 
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
+    - title: Director
+      institution: Instituto Kaiser Wilhelm de Física, Berlín, Alemania.
       year: 1917-1933
 
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
+    - title: Profesor de Física Teórica
+      institution: Universidad Karl-Ferdinand, Praga, Checoslovaquia
       year: 1911 - 1917
       description:
 
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
+    - title: Profesor Asociado de Física Teórica
+      institution: Universidad de Zurich, Zurich, Suiza
       year: 1909 - 1911
 
-- title: Projetos de Código Aberto
+- title: Proyectos de Código Abierto
   type: time_table
   contents:
     - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
+      year: 2023-actual
+      description: Una variación del tema al-folio con soporte para múltiples idiomas.
 
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
+      year: 2015-actual
+      description: Un tema Jekyll hermoso, simple, limpio y receptivo para académicos.
 
-- title: Honrarias e Prêmios
+- title: Honores y Premios
   type: time_table
   contents:
     - year: 1921
       items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
+        - Premio Nobel de Física
+        - Medalla Matteucci
     - year: 2029
       items:
-        - Medalha Max Planck
+        - Medalla Max Planck
 
-- title: Interesses Acadêmicos
+- title: Intereses Académicos
   type: nested_list
   contents:
     - title: Tópico 1.
       items:
-        - Descrição 1.
-        - Descrição 2.
+        - Descripción 1.
+        - Descripción 2.
     - title: Tópico 2.
       items:
-        - Descrição 1.
-        - Descrição 2.
+        - Descripción 1.
+        - Descripción 2.
 
-- title: Outros Interesses
+- title: Otros Intereses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Pasatiempos:</u> Pasatiempo 1, Pasatiempo 2, etc.

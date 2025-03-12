@@ -2,8 +2,8 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: publicações
-description: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
+title: publicaciones
+description: publicaciones por categoría en orden cronológica inversa. generado por jekyll-scholar.
 nav: true
 nav_order: 2
 ---
