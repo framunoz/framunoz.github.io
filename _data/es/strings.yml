@@ -20,13 +20,14 @@ blog:
 categories:
   fun: diversión
   work: trabajo
+  university: universidad
 citation:
   bibtex: "o como una entrada BibTeX:"
   introduction: "Si encontraste esto útil, por favor cita esto como:"
 collections:
   books: libros
   posts: publicaciones
-contact_note: Incluso puedes agregar una pequeña nota sobre cuál de estos es la mejor manera de contactarte.
+contact_note: Usualmente respondo dentro de las 24 horas a correos electrónicos.
 cv:
   address: Dirección
   area: Área
