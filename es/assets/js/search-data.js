@@ -29,7 +29,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta es una descripción de la página. Puede modificarla en &#39;_pages/cv.md&#39;. También puede cambiar o eliminar el botón de descarga de pdf en la parte superior.",
+          description: "",
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/es/cv/";
@@ -41,9 +41,9 @@ ninja.data = [{
               window.location.href = "/es/books/es/the_godfather/";
             },},{id: "projects-evolution-of-species",
           title: 'Evolution of Species',
-          description: "Project to provide numerical methods to solve the Perthame equations",
+          description: "Proyecto para proporcionar métodos numéricos para resolver las ecuaciones de Perthame.",
           section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/en/2021-06-10-evolution-of-species/";
+              window.location.href = "/es/projects/es/2021-06-10-evolution-of-species/";
             },},{
         id: 'social-email',
         title: 'Enviar un correo electrónico',
