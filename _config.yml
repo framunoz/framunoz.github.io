@@ -176,13 +176,31 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/en-us/about_einstein.md
-  - _pages/pt-br/about_einstein.md
+  - _pages/en/about_einstein.md
+  - _pages/es/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - UPGRADING.md
   - vendor
+  # Remove publications
+  # - _bibliography
+  - _pages/en/publications.md
+  - _pages/es/publications.md
+  - _pages/en/dropdown.md
+  - _pages/es/dropdown.md
+  # Remove repositories
+  - _pages/en/repositories.md
+  - _pages/es/repositories.md
+  - _includes/repository/
+  # Remove teaching
+  - _pages/en/teaching.md
+  - _pages/es/teaching.md
+  # Remove people
+  - _pages/en/profiles.md
+  - _pages/es/profiles.md
+
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -624,10 +642,10 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume_en-us
-    json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
+  - data: resume_en
+    json: assets/json/resume_en.json # it can also be an url
+  - data: resume_es
+    json: assets/json/resume_es.json # it can also be an url
 
 jsonresume:
   - basics
