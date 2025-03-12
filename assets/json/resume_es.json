@@ -40,7 +40,7 @@
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2022-12-01",
       "endDate": "2024-10-11",
-      "summary": "Desarrollé una librería en PyTorch para calcular el baricentro de Wasserstein Bayesiano utilizando el algoritmo de descenso de gradiente estocástico en el espacio de Wasserstein.",
+      "summary": "Desarrollé una librería en PyTorch para calcular el baricentro de Wasserstein Bayesiano utilizando el algoritmo del descenso del gradiente estocástico en el espacio de Wasserstein.",
       "highlights": [
         "Implementé Redes Generativas Adversarias de Wasserstein (WGAN) para calcular su baricentro y usarlo como una aproximación de proyección en variedad.",
         "Extendí los algoritmos WGAN incorporando una estructura de Autoencoder (AE) a través de la distancia de Wasserstein.",
@@ -79,12 +79,30 @@
       "highlights": []
     },
     {
+      "name": "Análisis de la Correlación entre Metodologías de Enseñanza Inclusiva y el Rendimiento Académico de Estudiantes de Educación Primaria",
+      "position": "Freelance",
+      "location": "Santiago, Chile",
+      "startDate": "2022-11-30",
+      "endDate": "2023-01-08",
+      "summary": "Realicé un análisis estadístico para determinar la correlación entre las metodologías de enseñanza inclusiva y el rendimiento académico de estudiantes de educación primaria. Desarrollé un modelo de regresión logística para predecir el rendimiento académico.",
+      "highlights": []
+    },
+    {
       "name": "Voyager Health",
       "position": "Científico de Datos",
       "location": "Santiago, Chile",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
       "summary": "Predije el índice INR en pacientes bajo tratamiento con anticoagulantes orales utilizando redes neuronales recurrentes en TensorFlow y otras herramientas de análisis de series temporales. Realicé análisis estadístico de las series temporales.",
+      "highlights": []
+    },
+    {
+      "name": "Asignación de Servicios de Internet en Comunidades Vulnerables",
+      "position": "Freelance",
+      "location": "Santiago, Chile",
+      "startDate": "2021-09-21",
+      "endDate": "2021-12-17",
+      "summary": "Formulé un modelo de optimización para asignar servicios de Internet en comunidades vulnerables, considerando restricciones de capacidad y demanda. Implementé un algoritmo de optimización de transporte óptimo.",
       "highlights": []
     },
     {
@@ -106,6 +124,18 @@
       "endDate": "2020-08-31",
       "summary": "Investigación sobre la optimización del suministro en el transporte interurbano, diseño de un plan de acción para abordar el problema y desarrollo de modelos de optimización para mejorar la planificación de rutas y eficiencia.",
       "highlights": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo",
+      "icon": ""
+    },
+    {
+      "language": "Inglés",
+      "fluency": "B1 (TOEFL ITP)",
+      "icon": ""
     }
   ],
   "certificates": [
@@ -138,16 +168,32 @@
       "icon": "fa-solid fa-square-binary"
     }
   ],
-  "languages": [
+  "volunteer": [
     {
-      "language": "Español",
-      "fluency": "Nativo",
-      "icon": ""
+      "organization": "Instituto Milenio Fundamento de los Datos (IMFD)",
+      "position": "Monitor en Arduino Quest: Niñas PRO",
+      "url": "https://ninaspro.cl/#/potencia/",
+      "startDate": "2020-07-01",
+      "endDate": "2023-07-31",
+      "summary": "Guié a las alumnas en el desarrollo de un proyecto de Arduino.",
+      "highlights": ["Participé en los talleres de los años 2020 y 2023."]
     },
     {
-      "language": "Inglés",
-      "fluency": "B1 (TOEFL ITP)",
-      "icon": ""
+      "organization": "CONICYT",
+      "position": "Monitor en el Taller de IA para Escolares con Scratch",
+      "startDate": "2020-07-02",
+      "endDate": "2020-07-31",
+      "summary": "Enseñé a los alumnos a comprender, construir y utilizar un clasificador de Naive Bayes en Scratch.",
+      "highlights": []
+    },
+    {
+      "organization": "Campeonato de Matemáticas (CMAT)",
+      "position": "Equipo Académico",
+      "url": "https://organization.com/",
+      "startDate": "2019-03-01",
+      "endDate": "2020-12-31",
+      "summary": "Redacté preguntas, corregí pruebas y respondí consultas durante la competencia.",
+      "highlights": []
     }
   ]
 }

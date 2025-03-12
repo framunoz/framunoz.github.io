@@ -79,12 +79,30 @@
       "highlights": []
     },
     {
+      "name": "Correlation Analysis between Inclusive Teaching Methods and Academic Performance of Primary School Students",
+      "position": "Freelance",
+      "location": "Santiago, Chile",
+      "startDate": "2022-11-30",
+      "endDate": "2023-01-08",
+      "summary": "Performed statistical analysis to determine the correlation between inclusive teaching methods and the academic performance of primary school students. Developed a logistic regression model to predict academic performance.",
+      "highlights": []
+    },
+    {
       "name": "Voyager Health",
       "position": "Data Scientist",
       "location": "Santiago, Chile",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
       "summary": "I predicted the INR index in patients undergoing oral anticoagulant treatment using recurrent neural networks in TensorFlow and other time series analysis tools. I performed statistical analysis on the time series.",
+      "highlights": []
+    },
+    {
+      "name": "Internet Service Allocation in Vulnerable Communities",
+      "position": "Freelance",
+      "location": "Santiago, Chile",
+      "startDate": "2021-09-21",
+      "endDate": "2021-12-17",
+      "summary": "Formulated an optimization model to allocate internet services in vulnerable communities, considering capacity and demand constraints. Implemented an optimal transport optimization algorithm.",
       "highlights": []
     },
     {
@@ -106,6 +124,18 @@
       "endDate": "2020-08-31",
       "summary": "Researched the optimization of supply in intercity transportation, designed an action plan to address the problem, and developed optimization models to improve route planning and efficiency.",
       "highlights": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "B1 (TOEFL ITP)",
+      "icon": ""
     }
   ],
   "certificates": [
@@ -138,16 +168,31 @@
       "icon": "fa-solid fa-square-binary"
     }
   ],
-  "languages": [
+  "volunteer": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker",
-      "icon": ""
+      "organization": "Millennium Institute for Data Fundamentals (IMFD)",
+      "position": "Mentor at Arduino Quest: Niñas PRO",
+      "url": "https://ninaspro.cl/#/potencia/",
+      "startDate": "2020-07-01",
+      "endDate": "2023-07-31",
+      "summary": "Guided students in developing an Arduino project.",
+      "highlights": ["Participated in the 2020 and 2023 workshops."]
     },
     {
-      "language": "English",
-      "fluency": "B1 (TOEFL ITP)",
-      "icon": ""
+      "organization": "CONICYT",
+      "position": "Mentor in the AI Workshop for Students with Scratch",
+      "startDate": "2020-07-02",
+      "endDate": "2020-07-31",
+      "summary": "Taught students to understand, build, and use a Naive Bayes classifier in Scratch.",
+      "highlights": []
+    },
+    {
+      "organization": "Mathematics Championship (CMAT)",
+      "position": "Academic Team",
+      "startDate": "2019-03-01",
+      "endDate": "2020-12-31",
+      "summary": "Prepared questions, graded exams, and answered inquiries during the competition.",
+      "highlights": []
     }
   ]
 }
