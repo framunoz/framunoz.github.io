@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A collection of projects I&#39;ve worked on.",
+          description: "A collection of projects I&#39;ve worked on. (Currently under construction 🏗🚧👷‍♂️)",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/projects/";
@@ -39,6 +39,11 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en/the_godfather/";
+            },},{id: "projects-scrabble",
+          title: 'Scrabble',
+          description: "Proyecto para crear un clon simplificado del juego Scratch.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/es/_draft/2021-05-09-scrabble/";
             },},{id: "projects-evolution-of-species",
           title: 'Evolution of Species',
           description: "Project to provide numerical methods to solve the Perthame equations",
