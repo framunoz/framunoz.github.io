@@ -3,7 +3,7 @@ page_id: projects
 layout: page
 title: proyectos
 permalink: /projects/
-description: Una colección creciente de proyectos interesantes.
+description: Una colección creciente de proyectos interesantes. (Actualmente en construcción 🏗🚧👷‍♂️)
 nav: true
 nav_order: 3
 display_categories: [work, fun, university]
