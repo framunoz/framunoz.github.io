@@ -19,7 +19,12 @@
       "startDate": "2019-03-01",
       "endDate": "2022-12-01",
       "score": "GPA of 3.7 (6.2/7.0)",
-      "courses": ["Deep Learning", "Advanced Machine Learning", "Stochastic Calculus", "Nonlinear Optimization"]
+      "courses": [
+        "Deep Learning",
+        "Advanced Machine Learning",
+        "Stochastic Calculus",
+        "Nonlinear Optimization"
+      ]
     }
   ],
   "work": [
@@ -30,8 +35,13 @@
       "url": "https://cenia.cl",
       "startDate": "2024-10-15",
       "endDate": "2025-01-31",
-      "summary": "Analyzed, processed, and generated a satellite image dataset to predict the evolution of wildfires in Chile. Utilized spatial analysis tools such as GeoPandas and Google Earth Engine, and contributed to open-source libraries by fixing bugs and adding new features.",
-      "highlights": []
+      "summary": "I analyzed, processed, and generated a satellite image dataset to predict the evolution of wildfires in Chile.",
+      "highlights": [
+        "Computed statistics on Chilean wildfire datasets using Geopandas",
+        "Built the pipeline to preprocess and download satellite images from Google Earth Engine",
+        "Optimized Google Earth Engine queries by a factor of 100",
+        "Contributed to open-source code in the geetools library"
+      ]
     },
     {
       "name": "Center for Mathematical Modeling (CMM)",
@@ -176,7 +186,9 @@
       "startDate": "2020-07-01",
       "endDate": "2023-07-31",
       "summary": "Guided students in developing an Arduino project.",
-      "highlights": ["Participated in the 2020 and 2023 workshops."]
+      "highlights": [
+        "Participated in the 2020 and 2023 workshops."
+      ]
     },
     {
       "organization": "CONICYT",

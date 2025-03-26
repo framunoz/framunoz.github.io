@@ -19,7 +19,12 @@
       "startDate": "2019-03-01",
       "endDate": "2022-12-01",
       "score": "GPA de 3.7 (6.2/7.0)",
-      "courses": ["Deep Learning", "Aprendizaje Automático Avanzado", "Cálculo Estocástico", "Optimización No Lineal"]
+      "courses": [
+        "Deep Learning",
+        "Aprendizaje Automático Avanzado",
+        "Cálculo Estocástico",
+        "Optimización No Lineal"
+      ]
     }
   ],
   "work": [
@@ -30,8 +35,13 @@
       "url": "https://cenia.cl",
       "startDate": "2024-10-15",
       "endDate": "2025-01-31",
-      "summary": "Analicé, procesé y generé un conjunto de datos de imágenes satelitales para predecir la evolución de incendios forestales en Chile. Utilicé herramientas de análisis espacial como GeoPandas y Google Earth Engine, y contribuí a librerías de código abierto corrigiendo errores y agregando nuevas funcionalidades.",
-      "highlights": []
+      "summary": "Analicé, procesé y generé un conjunto de datos de imágenes satelitales para predecir la evolución de incendios forestales en Chile.",
+      "highlights": [
+        "Calculé estadísticas sobre el conjuntos de datos de incendios forestales en Chile usando geopandas",
+        "Construí la pipeline para preprocesar y descargar imágenes satelitales de Google Earth Engine",
+        "Optimicé las consultas de Google Earth Engine en un x100",
+        "Contribuí al código abierto en la librería geetools"
+      ]
     },
     {
       "name": "Centro de Modelamiento Matemático (CMM)",
@@ -176,7 +186,9 @@
       "startDate": "2020-07-01",
       "endDate": "2023-07-31",
       "summary": "Guié a las alumnas en el desarrollo de un proyecto de Arduino.",
-      "highlights": ["Participé en los talleres de los años 2020 y 2023."]
+      "highlights": [
+        "Participé en los talleres de los años 2020 y 2023."
+      ]
     },
     {
       "organization": "CONICYT",
