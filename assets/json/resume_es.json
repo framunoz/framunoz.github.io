@@ -37,8 +37,8 @@
       "endDate": "2025-01-31",
       "summary": "Analicé, procesé y generé un conjunto de datos de imágenes satelitales para predecir la evolución de incendios forestales en Chile.",
       "highlights": [
-        "Calculé estadísticas sobre el conjuntos de datos de incendios forestales en Chile usando geopandas",
-        "Construí la pipeline para preprocesar y descargar imágenes satelitales de Google Earth Engine",
+        "Calculé estadísticas sobre el conjuntos de datos de incendios forestales en Chile usando geopandas.",
+        "Construí la pipeline para preprocesar y descargar imágenes satelitales de Google Earth Engine.",
         "Optimicé las consultas de Google Earth Engine en un x100",
         "Contribuí al código abierto en la librería geetools"
       ]
@@ -103,8 +103,10 @@
       "location": "Santiago, Chile",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
-      "summary": "Predije el índice INR en pacientes bajo tratamiento con anticoagulantes orales utilizando redes neuronales recurrentes en TensorFlow y otras herramientas de análisis de series temporales. Realicé análisis estadístico de las series temporales.",
-      "highlights": []
+      "summary": "Predije el índice INR en pacientes bajo tratamiento con anticoagulante oral utilizando redes neuronales recurrentes en TensorFlow y Keras.",
+      "highlights": [
+        "Realicé análisis estadístico de las series temporales."
+      ]
     },
     {
       "name": "Asignación de Servicios de Internet en Comunidades Vulnerables",

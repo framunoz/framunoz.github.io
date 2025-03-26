@@ -103,8 +103,10 @@
       "location": "Santiago, Chile",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
-      "summary": "I predicted the INR index in patients undergoing oral anticoagulant treatment using recurrent neural networks in TensorFlow and other time series analysis tools. I performed statistical analysis on the time series.",
-      "highlights": []
+      "summary": "I predicted the INR index in patients undergoing oral anticoagulant treatment using recurrent neural networks in TensorFlow and Keras.",
+      "highlights": [
+        "Performed statistical analysis of time series."
+      ]
     },
     {
       "name": "Internet Service Allocation in Vulnerable Communities",
