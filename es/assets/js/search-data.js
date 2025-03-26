@@ -39,11 +39,6 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/es/books/es/the_godfather/";
-            },},{id: "projects-scrabble",
-          title: 'Scrabble',
-          description: "Proyecto para crear un clon simplificado del juego Scratch.",
-          section: "Proyectos",handler: () => {
-              window.location.href = "/es/projects/es/_draft/2021-05-09-scrabble/";
             },},{id: "projects-evolution-of-species",
           title: 'Evolution of Species',
           description: "Proyecto para proporcionar métodos numéricos para resolver las ecuaciones de Perthame.",
