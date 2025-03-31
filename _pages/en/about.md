@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Francisco Muñoz, and I am a Data Scientist with experience in developing predictive models and data analysis. I hold a degree in Civil Mathematical Engineering and a Master's in Applied Mathematics from the University of Chile. Throughout my career, I have worked on projects in various fields, including transportation, health, education, and mining. In these projects, I have used data science tools, deep learning, machine learning, optimization models, and stochastic processes.
+Hi! I'm Francisco Muñoz, a Mathematical Civil Engineer with a Master's in Applied Mathematics from the University of Chile. I specialize in data science, with experience in developing predictive models and data analysis. I consider myself a critical thinker, resilient, and creative, with strong communication skills to work effectively in multidisciplinary teams.
 
-In my free time, I enjoy cooking and coffee. I love trying new recipes, learning cooking techniques, and improving them.
+Throughout my career, I have worked on projects in transportation, healthcare, education, and mining. In these projects, I have applied data science, deep learning, machine learning, optimization models, and stochastic processes.
+
+I am motivated by solving complex problems with an analytical and technical approach, always striving for innovation and impact. I aspire to contribute to a more sustainable and efficient world through the intelligent use of data.
+
+If you're interested in learning more about my work or exploring collaboration opportunities, feel free to reach out. I check my emails frequently and will be happy to respond. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/femunozg/?locale=en_US) to keep sharing ideas and opportunities.

@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hola! Mi nombre es Francisco Muñoz y soy un Data Scientist con experiencia en el desarrollo de modelos predictivos y análisis de datos. Soy Ingeniero Civil Matemático con un Máster en Matemáticas Aplicadas de la Universidad de Chile. A lo largo de mi experiencia, he trabajado en proyectos de distintas áreas, como lo es en transporte, salud, educación y mineria. En estas experiencias he utilizado herramientas de ciencias de datos, aprendizaje profundo, aprendizaje automático modelos de optimización y procesos estocásticos.
+¡Hola! Soy Francisco Muñoz, Ingeniero Civil Matemático con un Magíster en Matemáticas Aplicadas de la Universidad de Chile. Me especializo en ciencia de datos, con experiencia en el desarrollo de modelos predictivos y análisis de datos. Me considero una persona con pensamiento crítico, resiliente y creativa, con habilidad para comunicarme de forma clara y efectiva en equipos multidisciplinarios.
 
-Entre mis pasatiempos, me gusta la cocina y la cafetería. Me gusta probar recetas nuevas, aprender las técnicas de cocina y mejorarlos.
+A lo largo de mi carrera, he trabajado en proyectos en transporte, salud, educación y minería. En estos proyectos, he utilizado herramientas de ciencia de datos, deep learning, machine learning, modelos de optimización y procesos estocásticos.
+
+Me motiva resolver problemas complejos con un enfoque analítico y técnico, siempre buscando innovar y generar impacto. Aspito a contribuir a un mundo más sostenible y eficiente medial el uso inteligente de datos.
+
+Si te interesa conocer más sobre mi trabajo o explorar oportunidades de colaboración, no dudes en contactarme. Reviso mis correos con frecuencia y estaré encantado de responderte. También puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/femunozg/) para seguir compartiendo ideas y oportunidades.
