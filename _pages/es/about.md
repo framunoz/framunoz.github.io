@@ -32,6 +32,6 @@ latest_posts:
 
 A lo largo de mi carrera, he trabajado en proyectos en transporte, salud, educación y minería. En estos proyectos, he utilizado herramientas de ciencia de datos, deep learning, machine learning, modelos de optimización y procesos estocásticos.
 
-Me motiva resolver problemas complejos con un enfoque analítico y técnico, siempre buscando innovar y generar impacto. Aspito a contribuir a un mundo más sostenible y eficiente medial el uso inteligente de datos.
+Me motiva resolver problemas complejos con un enfoque analítico y técnico, siempre buscando innovar y generar impacto. Aspiro a contribuir a un mundo más sostenible y eficiente mediante el uso inteligente de datos.
 
 Si te interesa conocer más sobre mi trabajo o explorar oportunidades de colaboración, no dudes en contactarme. Reviso mis correos con frecuencia y estaré encantado de responderte. También puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/femunozg/) para seguir compartiendo ideas y oportunidades.
