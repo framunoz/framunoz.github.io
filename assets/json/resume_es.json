@@ -8,7 +8,8 @@
       "studyType": "M.Sc",
       "startDate": "2023-03-01",
       "endDate": "2024-10-11",
-      "score": "GPA de 4.0 (6.8/7.0)"
+      "score": "GPA de 4.0 (6.8/7.0)",
+      "courses": ["Aprendizaje Automático Avanzado", "Simulación Estocástica", "Probabilidad y Estadística en el Análisis de Datos"]
     },
     {
       "institution": "Universidad de Chile",
@@ -19,12 +20,18 @@
       "startDate": "2019-03-01",
       "endDate": "2022-12-01",
       "score": "GPA de 3.7 (6.2/7.0)",
-      "courses": [
-        "Deep Learning",
-        "Aprendizaje Automático Avanzado",
-        "Cálculo Estocástico",
-        "Optimización No Lineal"
-      ]
+      "courses": ["Deep Learning", "Cálculo Estocástico", "Optimización No Lineal"]
+    },
+    {
+      "institution": "Universidad de Chile",
+      "location": "Santiago, Chile",
+      "url": "https://www.uzh.ch/",
+      "area": "Computación",
+      "studyType": "Minor",
+      "startDate": "2021-03-01",
+      "endDate": "2022-12-01",
+      "score": "GPA de 4.0 (6.8/7.0)",
+      "courses": ["Bases de Datos", "Algoritmos y Estructuras de Datos", "Metodología de Diseño y Programación", "Ingeniería de Software"]
     }
   ],
   "work": [
@@ -35,12 +42,13 @@
       "url": "https://cenia.cl",
       "startDate": "2024-10-15",
       "endDate": "2025-01-31",
-      "summary": "Analicé, procesé y generé un conjunto de datos de imágenes satelitales para predecir la evolución de incendios forestales en Chile.",
+      "summary": "Desarrollé un pipeline de procesamiento de imágenes satelitales para analizar la evolución de incendios forestales en Chile, optimizando su eficiencia y escalabilidad.",
       "highlights": [
-        "Calculé estadísticas sobre el conjuntos de datos de incendios forestales en Chile usando geopandas.",
-        "Construí la pipeline para preprocesar y descargar imágenes satelitales de Google Earth Engine.",
-        "Optimicé las consultas de Google Earth Engine en un x100",
-        "Contribuí al código abierto en la librería geetools"
+        "Analicé datos de incendios forestales en Chile, extrayendo métricas clave para su segmentación.",
+        "Automatizé la descarga y preprocesamiento de imágenes satelitales, mejorando la eficiencia del flujo de datos.",
+        "Optimicé consultas en Google Earth Engine, acelerándolas en un 100x.",
+        "Contribuí con mejoras a la librería geetools, beneficiando a la comunidad.",
+        "Stacks: Google Earth Engine | geopandas | geetools | scikit-learn"
       ]
     },
     {
@@ -50,23 +58,15 @@
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2022-12-01",
       "endDate": "2024-10-11",
-      "summary": "Desarrollé una librería en PyTorch para calcular el baricentro de Wasserstein Bayesiano utilizando el algoritmo del descenso del gradiente estocástico en el espacio de Wasserstein.",
+      "summary": "Calculé el baricentro de Wasserstein Bayesiano (BWB) en un conjunto de imágenes utilizando el algoritmo del descenso del gradiente estocástico sobre el espacio de Wasserstein (WSGD).",
       "highlights": [
-        "Implementé Redes Generativas Adversarias de Wasserstein (WGAN) para calcular su baricentro y usarlo como una aproximación de proyección en variedad.",
-        "Extendí los algoritmos WGAN incorporando una estructura de Autoencoder (AE) a través de la distancia de Wasserstein.",
-        "Aproximé la distribución a posteriori utilizando una GAN y el algoritmo de Monte Carlo con Cadenas de Markov (MCMC).",
-        "Desarrollé una librería para obtener y procesar el conjunto de datos Quick, Draw!."
+        "Implementé el algoritmo WSGD de forma abstracta, facilitando su uso por otros investigadores.",
+        "Desarrollé Redes Generativas Adversarias de Wasserstein (WGAN), optimizando la velocidad de entrenamiento en un factor de x3.",
+        "Extendí la arquitectura de WGAN incorporando un Autoencoder (AE), permitiendo tener un proyector sobre la variedad de imágenes.",
+        "Aproximé la distribución a posteriori utilizando GANs como distribución a priori, obteniendo muestras mediante el algoritmo de Markov Chain Monte Carlo (MCMC).",
+        "Desarrollé una librería para procesar y limpiar el conjunto de datos Quick, Draw!, implementando algoritmos de clusterización para mejorar la calidad del conjunto.",
+        "Stacks: PyTorch | WGAN | Autoencoders | MCMC | NUTS | Scikit-learn | Clusterización | UMAP | Tensorboard"
       ]
-    },
-    {
-      "name": "Centro de Modelamiento Matemático (CMM)",
-      "position": "Desarrollador Front-end",
-      "location": "Santiago, Chile",
-      "url": "https://www.cmm.uchile.cl",
-      "startDate": "2024-04-01",
-      "endDate": "2024-05-31",
-      "summary": "Diseñé e implementé una interfaz gráfica intuitiva para mejorar la experiencia del usuario en la planificación de horarios laborales mediante modelos matemáticos, optimizando la interacción y visualización de resultados.",
-      "highlights": []
     },
     {
       "name": "Centro de Modelamiento Matemático (CMM)",
@@ -75,8 +75,12 @@
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2022-08-01",
       "endDate": "2023-01-31",
-      "summary": "Realicé ingeniería de características en datos sísmicos y llevé a cabo una revisión y aplicación del proceso de Hawkes para la predicción probabilística espaciotemporal de estallidos de roca.",
-      "highlights": []
+      "summary": "Realicé ingeniería de características en datos sísmicos y apliqué el proceso de Hawkes para la predicción probabilística espaciotemporal de estallidos de roca.",
+      "highlights": [
+        "Desarrollé procesos para transformar datos sísmicos crudos en características relevantes, necesario para su uso en modelos predictivos.",
+        "Implementé el proceso de Hawkes para realizar predicciones probabilísticas espaciotemporales de estallidos de roca.",
+        "Stacks: Procesos Estocásticos | Procesos de Hawkes | Feature Engineering"
+      ]
     },
     {
       "name": "Copenhagen Business School (CBS)",
@@ -85,8 +89,8 @@
       "url": "https://www.cbs.dk",
       "startDate": "2024-06-01",
       "endDate": "2024-07-31",
-      "summary": "Realicé investigaciones para incorporar el baricentro de Wasserstein Bayesiano en modelos de equidad.",
-      "highlights": []
+      "summary": "Investigué y propuse nuevas aplicaciones del baricentro de Wasserstein Bayesiano en el contexto de modelos de fairness.",
+      "highlights": ["Stacks: Fairness Models | Investigación | Baricentros de Wasserstein"]
     },
     {
       "name": "Análisis de la Correlación entre Metodologías de Enseñanza Inclusiva y el Rendimiento Académico de Estudiantes de Educación Primaria",
@@ -94,8 +98,14 @@
       "location": "Santiago, Chile",
       "startDate": "2022-11-30",
       "endDate": "2023-01-08",
-      "summary": "Realicé un análisis estadístico para determinar la correlación entre las metodologías de enseñanza inclusiva y el rendimiento académico de estudiantes de educación primaria. Desarrollé un modelo de regresión logística para predecir el rendimiento académico.",
-      "highlights": []
+      "summary": "Realicé un análisis estadístico para estudiar la correlación entre las metodologías de enseñanza inclusiva y el rendimiento académico en estudiantes de educación primaria.",
+      "highlights": [
+        "Utilicé técnicas de análisis de datos y visualización para presentar los resultados de forma clara.",
+        "Apliqué técnicas estadísticas para identificar patrones clave entre las metodologías de enseñanza y el rendimiento académico.",
+        "Realicé un análisis de correlación categórica-numérica y tests de hipótesis para validar los resultados.",
+        "Desarrollé un modelo de regresión logística para predecir el rendimiento académico.",
+        "Stacks: Estadística | Test de Hipótesis | Regresión Logística | Pandas | Scikit-learn"
+      ]
     },
     {
       "name": "Voyager Health",
@@ -103,9 +113,11 @@
       "location": "Santiago, Chile",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
-      "summary": "Predije el índice INR en pacientes bajo tratamiento con anticoagulante oral utilizando redes neuronales recurrentes en TensorFlow y Keras.",
+      "summary": "Predije el índice INR en pacientes bajo tratamiento con anticoagulante oral.",
       "highlights": [
-        "Realicé análisis estadístico de las series temporales."
+        "Analicé estadísticamente las series temporales de INR, identificando patrones clave.",
+        "Implementé redes neuronales recurrentes en TensorFlow y Keras, optimizando el flujo de entrenamiento.",
+        "Stacks: Series Temporales | Redes Neuronales Recurrentes | TensorFlow | Keras | Estadística"
       ]
     },
     {
@@ -114,8 +126,11 @@
       "location": "Santiago, Chile",
       "startDate": "2021-09-21",
       "endDate": "2021-12-17",
-      "summary": "Formulé un modelo de optimización para asignar servicios de Internet en comunidades vulnerables, considerando restricciones de capacidad y demanda. Implementé un algoritmo de optimización de transporte óptimo.",
-      "highlights": []
+      "summary": "Desarrollé un modelo de optimización para asignar servicios de Internet en comunidades vulnerables.",
+      "highlights": [
+        "Formulé un modelo de optimización del tipo de transporte óptimo con restricciones de capacidad y demanda.",
+        "Stacks: Optimización | Investigación de Operaciones | Programación Matemática | Python | PuLP"
+      ]
     },
     {
       "name": "SimpliRoute",
@@ -124,18 +139,27 @@
       "url": "https://simpliroute.com/es",
       "startDate": "2021-01-01",
       "endDate": "2021-03-05",
-      "summary": "Desarrollé algoritmos inteligentes basados en métodos de clustering para detectar datos georreferenciados anómalos. Implementé un método avanzado de detección de tiempos de servicio y desplegué estadísticas clave para análisis y toma de decisiones.",
-      "highlights": []
+      "summary": "Desarrollé algoritmos para detección de anomalías en datos georreferenciados y análisis de tiempos de servicio.",
+      "highlights": [
+        "Implementé métodos de clustering para identificar datos georreferenciados anómalos, mejorando la calidad de los datos.",
+        "Desarrollé un sistema avanzado de detección de tiempos de servicio, mejorando la planificación logística.",
+        "Desplegué estadísticas clave para análisis y toma de decisiones estratégicas.",
+        "Stacks: Machine Learning | Clustering | Análisis Geoespacial | Python | Scikit-learn | Pandas"
+      ]
     },
     {
       "name": "SARCAN",
-      "position": "Investigador en Práctica",
+      "position": "Ingeniero en Investigación y Desarrollo e Investigador en Práctica",
       "location": "Santiago, Chile",
       "url": "http://www.sarcan.cl",
       "startDate": "2020-01-01",
       "endDate": "2020-08-31",
-      "summary": "Investigación sobre la optimización del suministro en el transporte interurbano, diseño de un plan de acción para abordar el problema y desarrollo de modelos de optimización para mejorar la planificación de rutas y eficiencia.",
-      "highlights": []
+      "summary": "Desarrollé modelos de optimización para mejorar la planificación de rutas y eficiencia en el transporte interurbano.",
+      "highlights": [
+        "Diseñé un plan de acción para mejorar la eficiencia operativa del transporte. Este plan de acción se sigue implementando en la actualidad.",
+        "Implementé modelos de optimización para mejorar la planificación de rutas.",
+        "Stacks: Optimización | Investigación de Operaciones | Programación Matemática | Python | PuLP"
+      ]
     }
   ],
   "languages": [
@@ -188,9 +212,7 @@
       "startDate": "2020-07-01",
       "endDate": "2023-07-31",
       "summary": "Guié a las alumnas en el desarrollo de un proyecto de Arduino.",
-      "highlights": [
-        "Participé en los talleres de los años 2020 y 2023."
-      ]
+      "highlights": ["Participé en los talleres de los años 2020 y 2023."]
     },
     {
       "organization": "CONICYT",
