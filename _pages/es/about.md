@@ -14,7 +14,7 @@ profile:
   #   <p>123 su dirección</p>
   #   <p>Su cidudad, estado 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
