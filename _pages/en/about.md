@@ -34,4 +34,5 @@ Throughout my career, I have worked on projects in transportation, healthcare, e
 
 I am driven by solving complex problems with an analytical and technical approach, always striving to innovate and create impact. My goal is to contribute to a more sustainable and efficient world through the intelligent use of data.
 
-If you're interested in learning more about my work or exploring collaboration opportunities, feel free to reach out. I check my emails frequently and will be happy to respond. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/femunozg/?locale=en_US) to keep sharing ideas and opportunities.
+If you are interested in finding out more about my work or exploring opportunities for collaboration, please do not hesitate to
+[contact me](mailto:fmunoz@ug.uchile.cl). I check my emails frequently and will be happy to get back to you. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/femunozg/) to continue sharing ideas and opportunities.
