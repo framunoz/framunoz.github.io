@@ -9,7 +9,11 @@
       "startDate": "2023-03-01",
       "endDate": "2024-10-11",
       "score": "GPA of 4.0 (6.8/7.0)",
-      "courses": ["Advanced Machine Learning", "Stochastic Simulatio", "Probability and Statistics in the Analysis of Data"]
+      "courses": [
+        "Advanced Machine Learning",
+        "Stochastic Simulatio",
+        "Probability and Statistics in the Analysis of Data"
+      ]
     },
     {
       "institution": "Universidad de Chile",
@@ -20,7 +24,11 @@
       "startDate": "2019-03-01",
       "endDate": "2022-12-01",
       "score": "GPA of 3.7 (6.2/7.0)",
-      "courses": ["Deep Learning", "Stochastic Calculus", "Nonlinear Optimization"]
+      "courses": [
+        "Deep Learning",
+        "Stochastic Calculus",
+        "Nonlinear Optimization"
+      ]
     },
     {
       "institution": "Universidad de Chile",
@@ -31,10 +39,31 @@
       "startDate": "2021-03-01",
       "endDate": "2022-12-01",
       "score": "GPA of 4.0 (6.8/7.0)",
-      "courses": ["Databases", "Algorithms and Data Structures", "Design and Programming Methodologies", "Software Engineering"]
+      "courses": [
+        "Databases",
+        "Algorithms and Data Structures",
+        "Design and Programming Methodologies",
+        "Software Engineering"
+      ]
     }
   ],
   "work": [
+    {
+      "name": "Bloom",
+      "position": "AI/ML Developer",
+      "location": "Santiago, Chile",
+      "url": "https://bloomalert.com",
+      "startDate": "2025-05-02",
+      "endDate": "to date",
+      "summary": "As an AI/ML Developer, I specialize in the design, implementation, and optimization of end-to-end data solutions. My role focuses on building and maintaining robust and scalable MLOps pipelines on Google Cloud Platform, ensuring the performance and reliability of predictive models that improve efficiency in industrial processes for the water industry.",
+      "highlights": [
+        "Developed and implemented a predictive alert logic that minimized unplanned shutdowns and extended filter lifespan, while also leading the standardization of its technical documentation.",
+        "Automated alert performance reporting (Kedro, Quarto), using time-series analysis to significantly reduce system false positives.",
+        "Participated in the migration of ETLs to a serverless architecture on GCP (CI/CD, Docker), where I designed a code template that reduced development time by 60% and improved scalability.",
+        "Automated ETL monitoring by developing a Cloud Function with Slack notifications, reducing incident response time from hours to minutes and eliminating manual supervision.",
+        "Stacks: Data Science | GCP | Docker | CI/CD | Kedro | Quarto"
+      ]
+    },
     {
       "name": "National Center for Artificial Intelligence (CENIA)",
       "position": "Research Assistant",
@@ -90,7 +119,9 @@
       "startDate": "2024-06-01",
       "endDate": "2024-07-31",
       "summary": "Researched and proposed new applications of the Bayesian Wasserstein Barycenter in the context of fairness models.",
-      "highlights": ["Stacks: Fairness Models | Research | Wasserstein Barycenters"]
+      "highlights": [
+        "Stacks: Fairness Models | Research | Wasserstein Barycenters"
+      ]
     },
     {
       "name": "Analysis of the Correlation between Inclusive Teaching Methodologies and Academic Performance of Primary Education Students",
@@ -212,7 +243,9 @@
       "startDate": "2020-07-01",
       "endDate": "2023-07-31",
       "summary": "Guided students in developing an Arduino project.",
-      "highlights": ["Participated in the 2020 and 2023 workshops."]
+      "highlights": [
+        "Participated in the 2020 and 2023 workshops."
+      ]
     },
     {
       "organization": "CONICYT",

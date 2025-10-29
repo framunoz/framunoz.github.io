@@ -9,7 +9,11 @@
       "startDate": "2023-03-01",
       "endDate": "2024-10-11",
       "score": "GPA de 4.0 (6.8/7.0)",
-      "courses": ["Aprendizaje Automático Avanzado", "Simulación Estocástica", "Probabilidad y Estadística en el Análisis de Datos"]
+      "courses": [
+        "Aprendizaje Automático Avanzado",
+        "Simulación Estocástica",
+        "Probabilidad y Estadística en el Análisis de Datos"
+      ]
     },
     {
       "institution": "Universidad de Chile",
@@ -20,7 +24,11 @@
       "startDate": "2019-03-01",
       "endDate": "2022-12-01",
       "score": "GPA de 3.7 (6.2/7.0)",
-      "courses": ["Deep Learning", "Cálculo Estocástico", "Optimización No Lineal"]
+      "courses": [
+        "Deep Learning",
+        "Cálculo Estocástico",
+        "Optimización No Lineal"
+      ]
     },
     {
       "institution": "Universidad de Chile",
@@ -31,10 +39,31 @@
       "startDate": "2021-03-01",
       "endDate": "2022-12-01",
       "score": "GPA de 4.0 (6.8/7.0)",
-      "courses": ["Bases de Datos", "Algoritmos y Estructuras de Datos", "Metodología de Diseño y Programación", "Ingeniería de Software"]
+      "courses": [
+        "Bases de Datos",
+        "Algoritmos y Estructuras de Datos",
+        "Metodología de Diseño y Programación",
+        "Ingeniería de Software"
+      ]
     }
   ],
   "work": [
+    {
+      "name": "Bloom",
+      "position": "Desarrollador IA/ML",
+      "location": "Santiago, Chile",
+      "url": "https://bloomalert.com",
+      "startDate": "2025-05-02",
+      "endDate": "to date",
+      "summary": "Como Desarrollador de IA/ML, me especializo en el diseño, implementación y optimización de soluciones de datos de extremo a extremo. Mi rol se enfoca en construir y mantener pipelines de MLOps robustos y escalables en Google Cloud Platform, asegurando el rendimiento y la fiabilidad de los modelos predictivos que mejoran la eficiencia en procesos industriales para la industria del agua.",
+      "highlights": [
+        "Desarrollé e implementé una lógica de alertas predictivas que minimizó las detenciones no programadas y extendió la vida útil de los filtros, liderando además la estandarización de su documentación técnica.",
+        "Automaticé el reporting de rendimiento de alertas (Kedro, Quarto), utilizando análisis de series temporales para reducir significativamente los falsos positivos del sistema.",
+        "Participé en la migración de ETLs a una arquitectura serverless en GCP (CI/CD, Docker), donde diseñé un template de código que redujo el tiempo de desarrollo en un 60% y mejoró la escalabilidad.",
+        "Automaticé el monitoreo de ETLs desarrollando una Cloud Function con notificaciones en Slack, reduciendo el tiempo de respuesta a incidentes de horas a minutos y eliminando la supervisión manual.",
+        "Stacks: Data Science | GCP | Docker | CI/CD | Kedro | Quarto"
+      ]
+    },
     {
       "name": "Centro Nacional en Inteligencia Artificial (CENIA)",
       "position": "Asistente de Investigación",
@@ -57,7 +86,7 @@
       "location": "Santiago, Chile",
       "url": "https://www.cmm.uchile.cl",
       "startDate": "2022-12-01",
-      "endDate": "2024-10-11",
+      "endDate": "2025-04-30",
       "summary": "Calculé el baricentro de Wasserstein Bayesiano (BWB) en un conjunto de imágenes utilizando el algoritmo del descenso del gradiente estocástico sobre el espacio de Wasserstein (WSGD).",
       "highlights": [
         "Implementé el algoritmo WSGD de forma abstracta, facilitando su uso por otros investigadores.",
@@ -90,7 +119,9 @@
       "startDate": "2024-06-01",
       "endDate": "2024-07-31",
       "summary": "Investigué y propuse nuevas aplicaciones del baricentro de Wasserstein Bayesiano en el contexto de modelos de fairness.",
-      "highlights": ["Stacks: Fairness Models | Investigación | Baricentros de Wasserstein"]
+      "highlights": [
+        "Stacks: Fairness Models | Investigación | Baricentros de Wasserstein"
+      ]
     },
     {
       "name": "Análisis de la Correlación entre Metodologías de Enseñanza Inclusiva y el Rendimiento Académico de Estudiantes de Educación Primaria",
@@ -212,7 +243,9 @@
       "startDate": "2020-07-01",
       "endDate": "2023-07-31",
       "summary": "Guié a las alumnas en el desarrollo de un proyecto de Arduino.",
-      "highlights": ["Participé en los talleres de los años 2020 y 2023."]
+      "highlights": [
+        "Participé en los talleres de los años 2020 y 2023."
+      ]
     },
     {
       "organization": "CONICYT",
