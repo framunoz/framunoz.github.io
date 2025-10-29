@@ -34,4 +34,5 @@ A lo largo de mi carrera, he trabajado en proyectos en transporte, salud, educac
 
 Me motiva resolver problemas complejos con un enfoque analítico y técnico, siempre buscando innovar y generar impacto. Aspiro a contribuir a un mundo más sostenible y eficiente mediante el uso inteligente de datos.
 
-Si te interesa conocer más sobre mi trabajo o explorar oportunidades de colaboración, no dudes en contactarme. Reviso mis correos con frecuencia y estaré encantado de responderte. También puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/femunozg/) para seguir compartiendo ideas y oportunidades.
+Si te interesa conocer más sobre mi trabajo o explorar oportunidades de colaboración, no dudes en
+[contactarme](mailto:fmunoz@ug.uchile.cl). Reviso mis correos con frecuencia y estaré encantado de responderte. También puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/femunozg/) para seguir compartiendo ideas y oportunidades.
