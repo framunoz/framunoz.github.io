@@ -25,7 +25,7 @@ ninja.data = [{
           description: "A collection of projects I&#39;ve worked on. (Currently under construction 🏗🚧👷‍♂️)",
           section: "Navigation menu",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/https:/www.datascienceportfol.io/fmunoz";
           },
         },{id: "nav-cv",
           title: "cv",

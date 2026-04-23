@@ -25,7 +25,7 @@ ninja.data = [{
           description: "Una colección creciente de proyectos interesantes. (Actualmente en construcción 🏗🚧👷‍♂️)",
           section: "Menú de navegación",
           handler: () => {
-            window.location.href = "/es/projects/";
+            window.location.href = "/es/https:/www.datascienceportfol.io/fmunoz";
           },
         },{id: "nav-cv",
           title: "cv",
