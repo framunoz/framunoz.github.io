@@ -2,7 +2,7 @@
 page_id: projects
 layout: page
 title: projects
-permalink: /projects/
+permalink: https://www.datascienceportfol.io/fmunoz
 description: A collection of projects I've worked on. (Currently under construction 🏗🚧👷‍♂️)
 nav: true
 nav_order: 3
